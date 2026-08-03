@@ -46,7 +46,7 @@ Since all dependencies are loaded via CDN, no complex build steps or node module
    git clone [https://github.com/FIQTOR/3d-hand-tracking.git](https://github.com/FIQTOR/3d-hand-tracking.git)
    cd 3d-hand-tracking
 
-```
+    ```
 
 2. **Serve the directory**:
 Using Python:
@@ -90,5 +90,3 @@ Navigate to `http://localhost:8000` and allow camera permissions.
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](https://www.google.com/search?q=LICENSE) file for details.
-
-```
